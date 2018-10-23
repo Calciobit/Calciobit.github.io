@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
+theme = "hyde-y"
 languageCode = "en-us"
 title = "My New Hugo Site"
+baseurl = "https://calciobit.github.io/"
+canonifyurls = true
